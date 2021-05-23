@@ -1,4 +1,4 @@
-{
+[
 	"signatures": {
 			"dwClientState": 0x589FE4,
 			"dwClientState_GetLocalPlayer": 0x180,
@@ -146,4 +146,4 @@
 			"m_flCustomAutoExposureMin": 0x9DC,
 			"m_flCustomAutoExposureMax": 0x9E0,
 	}
-}
+]
