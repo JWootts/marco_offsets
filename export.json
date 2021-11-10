@@ -1,5 +1,5 @@
 {
- "signatures": {
+"signatures": {
   "dwClientState": 5808076,
   "dwClientState_GetLocalPlayer": 384,
   "dwClientState_IsHLTV": 19784,
@@ -57,7 +57,7 @@
   "force_update_spectator_glow": 3883306,
   "anim_overlays": 10640,
   "m_flSpawnTime": 66496,
-  "find_hud_element": 808398976
+  "find_hud_element": 814887040
 },
 "netvars": {
   "m_ArmorValue": 71628,
