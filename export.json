@@ -1,10 +1,10 @@
 {
-  dwClientState: 5808068,
-  m_iCrosshairId: 71736,
-  dwLocalPlayer: 14378476,
-  m_flFlashMaxAlpha: 66668,
-  dwForceJump: 86490264,
-  m_iGlowIndex: 66696,
-  m_iTeamNum: 244,
-  dwEntityList: 81600028
+  "dwClientState": 5808068,
+  "m_iCrosshairId": 71736,
+  "dwLocalPlayer": 14378476,
+  "m_flFlashMaxAlpha": 66668,
+  "dwForceJump": 86490264,
+  "m_iGlowIndex": 66696,
+  "m_iTeamNum": 244,
+  "dwEntityList": 81600028
 }
